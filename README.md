@@ -6,7 +6,7 @@ A leading retail company wants to better understand its customers’ shopping be
 You are tasked with analyzing the company’s consumer behavior dataset to answer the following overarching business question: 
 “How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?”
 
-# Deloverables
+# Deliverables
  1.Data Preparation & Modeling (Python): Clean and transform the raw dataset for analysis. 
  2. Data Analysis (SQL): Organize the data into a structured format, simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers. 
  3. Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions. 
